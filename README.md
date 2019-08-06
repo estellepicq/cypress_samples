@@ -7,16 +7,16 @@
 
 ## Test files
 
-* [Button](../samples/button.spec.js)
-* [Request](../samples/request.spec.js)
-* [Form](../samples/form.spec.js)
+* [Button](samples/button.spec.js)
+* [Request](samples/request.spec.js)
+* [Form](samples/form.spec.js)
 
-## Snippets
+## Snippets
 
-* [Variables](../snippets/variables.md)
-* [Fixtures](../snippets/fixtures.md)
+* [Variables](snippets/variables.md)
+* [Fixtures](snippets/fixtures.md)
 
-## Images
+## Images
 
-* [Schéma d'architecture](../images/cypress_schema.png)
-* [Fixtures](../images/cypress_screenshot.png)
+* [Schéma d'architecture](images/cypress_schema.png)
+* [Fixtures](images/cypress_screenshot.png)
